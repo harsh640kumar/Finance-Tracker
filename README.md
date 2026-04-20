@@ -14,4 +14,4 @@ A simple React-based finance tracking app to manage income and expenses.
 - React Router
 
 ## 🌐 Live Demo
-https://your-vercel-link.vercel.app
+https://finance-tracker-peach-chi.vercel.app/
